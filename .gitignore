@@ -1,0 +1,43 @@
+# Flutter/Dart 기본
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_oss_licenses/
+.melos_tool/
+
+# 환경설정
+.env
+*.env
+
+# IDE 설정
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# VS Code 설정 백업
+*.code-workspace
+
+# 로그파일
+*.log
+
+# 기타
+*.lock
+.sentryclirc
+*.keystore
+*.jks
+
+# 테스트/커버리지
+coverage/
+
+# 앱 배포용 빌드
+*.ipa
+*.apk
+*.aab
+*.xcarchive
+*.dSYM.zip
+*.symbols.zip
+firebase-debug.log
